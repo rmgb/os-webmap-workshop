@@ -252,6 +252,20 @@
           41.705151803808796
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Golf course",
+        "type": "Golf Course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47789764404297,
+          41.69368057972761
+        ]
+      }
     }
   ]
 }
